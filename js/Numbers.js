@@ -1,11 +1,4 @@
 ﻿/**
- * Author: Maximo Mena
- * GitHub: mmenavas
- * Twitter: @menamaximo
- * Project: Memory Workout
- * Description: This is a memory game written in pure JavaScript.
- * The goal is to match pairs of cards in the least
- * number of matching attempts.
  */
 
 /**
